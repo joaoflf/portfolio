@@ -1,0 +1,63 @@
+.site-title a {
+    position: absolute;
+}
+
+.white-text {
+    background: #90D4C5;
+    color: white !important;
+}
+
+.row>.large-1 {
+    margin-bottom: 10px;
+}
+
+.page-desc hr {
+    height: 1px;
+    opacity: 0.1;
+}
+
+.project-title {
+    font-size: 150%;
+}
+
+.page-desc img {
+    margin: 10px 0;
+}
+
+.page-desc figcaption {
+    margin-bottom: 20px
+}
+
+@media only screen and (min-width: 401px) {
+    .row {
+        margin: 5px 10%;
+    }
+}
+
+@media only screen and (min-width: 600px) {
+    .page-desc {
+        width: 100%;
+    }
+    .row {
+        margin: 5px 20%;
+    }
+}
+
+@-webkit-keyframes wobble {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+    20% {
+        -webkit-transform: rotate(10deg);
+    }
+    50% {
+        -webkit-transform: rotate(-10deg);
+    }
+    100% {
+        -webkit-transform: rotate(0deg);
+    }
+}
+
+.wobble {
+    -webkit-animation: wobble 0.5s infinite ease-in-out;
+}

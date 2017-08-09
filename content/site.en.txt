@@ -1,0 +1,36 @@
+Title: Sonia Gomes Showcase
+
+----
+
+Description: 
+
+----
+
+Copyright: Made with love by Sonia Gomes © (date: 2017)
+
+----
+
+Showlanguageselector: false
+
+----
+
+Brandname: SONIA/GOMES
+
+----
+
+Socials: 
+
+- 
+  name: Linkedin
+  link: https://linkedin.com/in/sonia-gomes
+- 
+  name: Twitter
+  link: https://twitter.com/icaracois
+
+----
+
+Email: hello@soniagomes.me
+
+----
+
+Phone: +44 7513 606985

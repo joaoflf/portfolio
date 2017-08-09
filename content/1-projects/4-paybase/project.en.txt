@@ -1,0 +1,17 @@
+Title: Paybase
+
+----
+
+Text: 
+
+*May 2017* /  **Skills:** *User Interface, User Experience, Responsive*
+
+This case study is coming soon! Meanwhile have a look at (link: https://paybase.io/ text: www.paybase.io target:_blank).
+
+----
+
+Tags: User Interface,User Experience,Responsive
+
+----
+
+Thumbimage: paybase-thumb.png

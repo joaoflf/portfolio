@@ -1,0 +1,126 @@
+Title: The Scene Club
+
+----
+
+Text: 
+
+*AUGUST 2016* /  **Skills:** *UX, UI, Mobile Design, Material Design, Lean UX *
+<br />
+
+<span class="project-title">**OVERVIEW**</span>
+
+
+The Scene Club is a **private film club** in Dubai that showcases the best of world independent cinema. This piece of work consists in a proposition of a design for an Android mobile app for The Scene Club, with special focus on their annual cinema festival.
+
+
+(image: the-scene-club-overview.jpg)
+
+(row…)
+
+<br />
+****
+ **<center class="project-title">THE PROBLEM</center> **
+The Scene Club  wanted an app to aid in the **promotion of their annual festival**, foster the club's image of creativity and innovation, and create a product that streamlines the exploration, selection, purchase, and check-in process. After conducting some research they have found a large number of their viewers are **Android users**, so they have decided to lead with an Android design.
+<br />
+****
+(…row)
+(row…)
+**<center class="project-title">DISCOVERY</center>**
+The phase of discovery was composed of **Ideation Sessions** where assumptions and hypotheses were discussed and created. The involvement of different perspectives like designers, product owners, developers and clients, is very important.
+
+**Assumptions**
+The following **business** and **user assumptions** were raised:
+(…row)
+<center>(image: business-assumptions.png width: 300 caption: Business Assumptions)(image: user-assumptions.png width: 300 caption: User Assumptions)</center>
+(row…)
+They were then classified and distributed in a **grid** that maps certainty and risk:
+(…row)
+<center>(image: assumption-grid.png width: 400 caption: Assumption Grid)</center>
+(row…)
+**User Outcomes**
+It was then time to look at the **users' needs** and problems we are trying to solve, look at the user assumptions made and put together a list of user outcomes:
+(…row)
+<center>(image: outcomes.png width: 300 caption: User Outcomes)</center>
+(row…)
+**Business Metrics**
+Similarly,  taken into consideration the business assumptions, **metrics** were raised in order to measure the user outcomes and their success:
+(…row)
+<center>(image: business-metrics.png width: 300 caption: Business Metrics)</center>
+(row…)
+**Proto-Personas**
+After the definition of the User Outcomes and Business Metrics, the sessions focused on proto-personas. Proto-personas are the models of the users that will have the assumed needs and want the created outcomes.
+(…row)
+<center>(image: persona-john.png width: 300 caption: John)</center>
+<center>(image: persona-chloe.png width: 300 caption: Chloe)</center>
+(row…)
+**Features**
+It was then time to take a look at the assumptions, review the desired outcomes, relate them to the personas and their needs, behaviours and potential solutions and start suggesting and discussing features:
+(…row)
+<center>(image: features.png width: 400 caption: Features)</center>
+(row…)
+**Hypothesis**
+The last piece of this discovery phase, was the conception of the **hypothesis**. Using the outcomes, metrics, personas and features  as building blocks, the following testable hypotheses were created:
+(…row)
+<center>(image: hypothesis.png  width: 1000 caption: Hypothesis)</center>
+
+<br />
+****
+(row…)
+**<center>IMPLEMENTATION</center>**
+**User Journeys**
+Creating user journeys is a great way to materialise the hypothesis into a mobile user interface.
+These user journeys are created to address each of the personas' needs:
+(…row)
+(row…)
+Chloe's Journey
+
+1. Quickly choose a recommended film
+2. Possibly filter by genre
+3. Book tickets through the app
+4. Book multiple tickets
+5. Get into the theatre through the app
+
+++++
+
+John's Journey
+
+1. Explore films in many ways as possible
+2. See detailed info about each film
+3. Check reviews
+4. Create his own personalised playlist and schedule
+5. Share content on social networks
+
+(…row)
+(row…)
+The following **wireframes** were then created to address these two journeys' requirements:
+(…row)
+**<center>Chloe's Journey</center>**
+<center>(image: chloe-journey-1.png width: 1000)</center>
+<center>(image: chloe-journey-2.png width: 1000)</center>
+<br />
+**<center>John's Journey </center>**
+<center>(image: john-journey-1.png)</center>
+<center>(image: john-journey-2.png)</center>
+<br />
+****
+(row…)
+**<center class="project-title">OUTCOMES</center>**
+**Visual Designs**
+The wireframes were then translated to visual designs. As it was an Android app, it was important to use and follow the **Material guidelines**. However, there was an effort to keep the club's identity in the app, and have a bit of **visual disruption** to stray away from generic Material apps.
+(…row)
+<center>(image: the-scene-club-chloes-journey.png)</center>
+<center>(image: the-scene-club-johns-journey.png)</center>
+<br />
+
+(row…)
+As the visuals are targeted for an application it was essential to build a **Style Guide**, to act as a reference for developers and also for future iterations.
+(…row)
+<center>(image: the-scene-club-style-guide.png caption: Style Guide)</center>
+
+----
+
+Tags: UX/UI,Mobile Design,Material Design,Lean UX
+
+----
+
+Thumbimage: thesceneclub-thumb4.png

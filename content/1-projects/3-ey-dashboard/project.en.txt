@@ -1,0 +1,63 @@
+Title: Ernst & Young Prototype
+
+----
+
+Text: 
+
+*March 2017* /  **Skills:** *Information Architecture, Co-creation, UX/UI, Lean UX*
+<br />
+
+<span class="project-title">**OVERVIEW**</span>
+
+Prototype of a dashboard for** employees that work in mobility schemes**. This work was performed with Ernst & Young to provide a better way to **organise all the logistics** associated with mobility working schemes.
+<center>(image:ey-overview.png)</center>
+(row…)
+
+<br />
+****
+ **<center class="project-title">THE PROBLEM</center> **
+Many of Ernst & Young’s partners provide consultancy services to companies around the globe. They often assign employees to countries abroad for extended periods of time and have mobility departments to deal with all the associated logistics.
+It was found that many assignees have **frustrations** arising from a **lack of visibility** and **operations** on activities such as tax returns, information requests, compliance timelines and others.
+One of the main problems is the required use of **many different and disconnected tools** to manage mobility experience. This problem affects both assignees and mobility managers and leads to **disorganised management** and **unnecessary costs**.
+<br />
+****
+(…row)
+
+(row…)
+**<center class="project-title">DISCOVERY & CO-CREATION</center>**
+The project began with a series of **ideation** and **co-creation workshops**, that included all of the project participants: product owners, business analysts, designers, developers, QAs and actual customers.
+Many of these workshops occurred with remote participants, using tools like Mural to facilitate cooperation and co-working.
+To aid the co-creation sessions, **personas** were created to reflect the different product users characteristics.
+
+**<center>Personas</center>**
+<center>(image:ey-personas-lisa.png width: 500) (image: ey-personas-louise.png width: 500) (image:ey-personas-monica.png width:500) </center>
+<br />
+
+Several techniques like **paper prototyping** and **collaborative sketching** were used as ways of communicating design ideas. Other workshops involved discussion of raw ideas using post-its and refinement methods like the **Five Whys**.
+
+<center>(image:ey-workshops-cocreation.jpg caption:Some outputs from collaborative sketching)</center>
+<center>(image:ey-workshops-analysis.jpg caption:Workshop Analysis)</center>
+<br />
+
+According to the different types of users, the head of mobility, the mobility manager and the assignee, several **user journeys** were defined.
+For example, the mobility manager would have a place with stats and data about his/her assignees, as well as tasks to complete and other information. On the other hand, an assignee would have a dedicated view with his/her tasks, travel and journey information and other relevant data.
+(…row)
+<center>(image:ey-storyboard.png caption:Storyboard with all User Journeys)</center>
+<br />
+(row…)
+****
+(…row)
+(row…)
+**<center class="project-title">OUTCOMES</center>**
+After the discovery and co-creation phase, a **cross-functional team**, composed of business analysts, product owner, scrum master, designers, developers and QAs was assembled. This team worked on **1-week iterations** to produce the defined user journeys. The team started producing interactive inVision prototypes but early started developing working HTML, CSS & JS prototypes. At the end of each iteration, the produced piece was showcased to stakeholders and potential customers, and **feedback** was collected.
+Below are the outputs of these iterations, including wireframes and final designs.
+(…row)
+<center>(image:ey-wires.png caption:Wireframe) (image: ey-screens-login.png caption: Login Screen) (image: ey-screens-ee.png caption:Employee Experience) (image: ey-screens-mm.png caption:Mobility Manager Experience)   </center>
+
+----
+
+Tags: Information Architecture,Co-creation,UX/UI,Prototyping
+
+----
+
+Thumbimage: ey-thumb.png
