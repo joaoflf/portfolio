@@ -34,13 +34,13 @@ This case study is still in progress. More information will come soon. Working o
 This case study is still in progress. More information will come soon. Working on it! :)
 (...row)
 
-(image: paybase-website-compare-1.png link: https://paybase.io/ text: www.paybase.io target:_blank)
+(image: paybase-website-compare-2.png link: https://paybase.io/ text: www.paybase.io target:_blank)
 
 (row…)
 This case study is still in progress. More information will come soon. Working on it! :)
 (...row)
 
-(image: paybase-website-console-1.png link: https://paybase.io/ text: www.paybase.io target:_blank)
+(image: paybase-website-console-2.png link: https://paybase.io/ text: www.paybase.io target:_blank)
 
 ----
 
