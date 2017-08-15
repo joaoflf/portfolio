@@ -4,13 +4,12 @@ Title: Paybase
 
 Text: 
 
-*May 2017* /  **Skills:** *User Interface, User Experience, Responsive*
-
-This case study is coming soon! Meanwhile have a look at (link: https://paybase.io/ text: www.paybase.io target:_blank).
+*May 2017* /  **Skills:** *User Interface, User Experience, Responsive, Branding* / (link: https://paybase.io/ text: www.paybase.io target:_blank)
+<br />
 
 <span class="project-title">**OVERVIEW**</span>
 
-This case study is still in progress. More information will come soon. Working on it! :)
+My first challenge when I started at Paybase was a complete rebranding. This meant not only creating the company logo and visual language, but also their website (desktop & mobile), presentation deck templates, and other visual artifacts.
 
 (image: paybase-overview-0.png link: https://paybase.io/ text: www.paybase.io target:_blank)
 
@@ -18,29 +17,46 @@ This case study is still in progress. More information will come soon. Working o
 
 (row…)
  **<center class="project-title">THE BUSINESS CHALLENGE</center>**
-This case study is still in progress. More information will come soon. Working on it! :)
+Like any brand, a company brand needs to differentiate itself, resonate with customers, inspire employees and most importantly reflect the company's vision. Paybase had just decided to pivot its main product from a mobile app targeted at customers (Payfriendz) to a B2B payments platform solution targetted to companies that wanted to develop payments and marketplaces applications. This presented an interesting challenge, the product and brand no longer needed to appeal to the consumer but to tech companies and their developers. From this need the above depicted logo was born.
 (...row)
 
-(image: paybase-website-hero-5.png link: https://paybase.io/ text: www.paybase.io target:_blank)
-
+****
+<br />
 (row…)
-This case study is still in progress. More information will come soon. Working on it! :)
+ **<center class="project-title">THE WEBSITE</center>**
+The website needed to contain a diverse range of information, showcase the product and above all convert visitors into potential customers.  Below are the most relevant and challenging sections.
+The first screen shows the website's hero. This is a very important section as it is the first thing visitor's see and therefore the first opportunity to convert them.
 (...row)
 
-(image: paybase-website-marketplaces-3.png link: https://paybase.io/ text: www.paybase.io target:_blank)
+(image: paybase-website-hero-5.png)
 
-
+<br />
 (row…)
-This case study is still in progress. More information will come soon. Working on it! :)
+One of the most challenging parts was to explain the product features in a simple and appealing way but also detailed enough for the target audience. Being a back-end platform that handles financial operations, this product was very complex in its nature. After some experiments, diagrams were considered the best way to tackle this challenge. The involvement of various parties, from the CEO to developers, customer support and marketing, was essential to build these diagrams.
 (...row)
 
-(image: paybase-website-compare-2.png link: https://paybase.io/ text: www.paybase.io target:_blank)
+(image: paybase-website-marketplaces-3.png)
 
+<br />
 (row…)
-This case study is still in progress. More information will come soon. Working on it! :)
+Another interesting and fun section to design was the comparison slider. There was a need to explain how Paybase streamlined and simplified a payment's solution. An interactive slider was the best way to represent this. With the solution with the platform on one end, and without at the other end, the user can interact and see in an engaging way how the product simplifies and provides value.
 (...row)
 
-(image: paybase-website-console-2.png link: https://paybase.io/ text: www.paybase.io target:_blank)
+(image: paybase-website-compare-2.png)
+
+<br />
+(row…)
+The company also wanted to showcase a part of the product that was not developed already, the admin console. In order to do this, some wireframes and mockups ended up being designed and placed on the website.
+(...row)
+
+(image: paybase-website-console-2.png)
+
+<br />
+(row…)
+In today's world, no website can go live without a mobile or responsive version. This website was designed in a responsive way, using a grid to streamline its implementation. Below are some examples of how the website reacts in smaller screens.
+(...row)
+
+(image: paybase-responsive-website.png)
 
 ----
 
