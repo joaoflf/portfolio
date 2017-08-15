@@ -8,6 +8,40 @@ Text:
 
 This case study is coming soon! Meanwhile have a look at (link: https://paybase.io/ text: www.paybase.io target:_blank).
 
+<span class="project-title">**OVERVIEW**</span>
+
+This case study is still in progress. More information will come soon. Working on it! :)
+
+(image: paybase-overview-0.png link: https://paybase.io/ text: www.paybase.io target:_blank)
+
+****
+
+(row…)
+ **<center class="project-title">THE BUSINESS CHALLENGE</center>**
+This case study is still in progress. More information will come soon. Working on it! :)
+(...row)
+
+(image: paybase-website-hero-5.png link: https://paybase.io/ text: www.paybase.io target:_blank)
+
+(row…)
+This case study is still in progress. More information will come soon. Working on it! :)
+(...row)
+
+(image: paybase-website-marketplaces-3.png link: https://paybase.io/ text: www.paybase.io target:_blank)
+
+
+(row…)
+This case study is still in progress. More information will come soon. Working on it! :)
+(...row)
+
+(image: paybase-website-compare-1.png link: https://paybase.io/ text: www.paybase.io target:_blank)
+
+(row…)
+This case study is still in progress. More information will come soon. Working on it! :)
+(...row)
+
+(image: paybase-website-console-1.png link: https://paybase.io/ text: www.paybase.io target:_blank)
+
 ----
 
 Tags: User Interface,User Experience,Responsive
