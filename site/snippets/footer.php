@@ -18,12 +18,18 @@
       </nav>
 
   </footer>
+  
 
   <?php echo js("assets/js/main.min.js") ?>
   <?php echo js("@auto") ?>
 
   <?php snippet('analytics') ?>
   <?php echo snippet('ga'); ?>
+  <?= js([
+  'assets/vendor/photoswipe/photoswipe.min.js',
+  'assets/vendor/photoswipe/photoswipe-ui-default.min.js',
+  'assets/plugins/lightbox-gallery/init-photoswipe.min.js'
+]) ?>
 </body>
 </html>
  

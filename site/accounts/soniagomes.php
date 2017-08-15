@@ -8,7 +8,7 @@ language: en
 role: admin
 history:
   - projects/paybase
-  - projects
-  - home
+  - projects/betfair-exchange
+  - projects/the-scene-club
   - projects/ey-dashboard
-  - projects/betfair-sportsbook-mobile
+  - projects

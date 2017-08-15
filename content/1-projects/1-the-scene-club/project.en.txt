@@ -108,14 +108,14 @@ The following **wireframes** were then created to address these two journeys' re
 **Visual Designs**
 The wireframes were then translated to visual designs. As it was an Android app, it was important to use and follow the **Material guidelines**. However, there was an effort to keep the club's identity in the app, and have a bit of **visual disruption** to stray away from generic Material apps.
 (…row)
-<center>(image: the-scene-club-chloes-journey.png)</center>
-<center>(image: the-scene-club-johns-journey.png)</center>
+<center>(gallery: the-scene-club-chloes-journey.png)</center>
+<center>(gallery: the-scene-club-johns-journey.png)</center>
 <br />
 
 (row…)
 As the visuals are targeted for an application it was essential to build a **Style Guide**, to act as a reference for developers and also for future iterations.
 (…row)
-<center>(image: the-scene-club-style-guide.png caption: Style Guide)</center>
+<center>(gallery: the-scene-club-style-guide.png caption: Style Guide)</center>
 
 ----
 

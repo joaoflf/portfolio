@@ -27,6 +27,11 @@
 
   <link href='http://fonts.googleapis.com/css?family=Righteous&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
   <link href='http://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet' type='text/css'>
+  <?= css([
+  'assets/plugins/lightbox-gallery/gallery.min.css',
+  'assets/vendor/photoswipe/photoswipe.min.css',
+  'assets/vendor/photoswipe/default-skin/default-skin.min.css'
+  ]) ?>
 </head>
 <body>
 

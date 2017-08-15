@@ -17,7 +17,6 @@ for more information: http://getkirby.com/license
 c::set('panel.install', true);
 c::set('license', 'put your license key here');
 c::set('plugin.ga.id', 'UA-104371707-1');
-
 /*
 
 ---------------------------------------

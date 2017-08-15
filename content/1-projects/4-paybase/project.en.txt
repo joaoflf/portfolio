@@ -28,35 +28,37 @@ The website needed to contain a diverse range of information, showcase the produ
 The first screen shows the website's hero. This is a very important section as it is the first thing visitor's see and therefore the first opportunity to convert them.
 (...row)
 
-(image: paybase-website-hero-5.png)
+(gallery: paybase-website-hero-5.png)
 
 <br />
 (row…)
 One of the most challenging parts was to explain the product features in a simple and appealing way but also detailed enough for the target audience. Being a back-end platform that handles financial operations, this product was very complex in its nature. After some experiments, diagrams were considered the best way to tackle this challenge. The involvement of various parties, from the CEO to developers, customer support and marketing, was essential to build these diagrams.
 (...row)
 
-(image: paybase-website-marketplaces-3.png)
+(gallery: paybase-website-marketplaces-3.png)
 
 <br />
 (row…)
 Another interesting and fun section to design was the comparison slider. There was a need to explain how Paybase streamlined and simplified a payment's solution. An interactive slider was the best way to represent this. With the solution with the platform on one end, and without at the other end, the user can interact and see in an engaging way how the product simplifies and provides value.
 (...row)
 
-(image: paybase-website-compare-2.png)
+(gallery: paybase-website-compare-2.png)
 
 <br />
 (row…)
 The company also wanted to showcase a part of the product that was not developed already, the admin console. In order to do this, some wireframes and mockups ended up being designed and placed on the website.
 (...row)
 
-(image: paybase-website-console-2.png)
+(gallery: paybase-website-console-2.png)
 
 <br />
 (row…)
 In today's world, no website can go live without a mobile or responsive version. This website was designed in a responsive way, using a grid to streamline its implementation. Below are some examples of how the website reacts in smaller screens.
 (...row)
 
-(image: paybase-responsive-website.png)
+(gallery: paybase-responsive-website.png)
+
+(gallery: paybase-brandartifacts.png)
 
 ----
 
@@ -64,4 +66,4 @@ Tags: User Interface,User Experience,Responsive
 
 ----
 
-Thumbimage: paybase-thumb.png
+Thumbimage: paybase-thumb-3.png
