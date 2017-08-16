@@ -24,7 +24,7 @@ The great amount of data and controls that formed part of the interface also con
 Below is the homepage at the time:
 (...row)
 
-<center>(image: betfair-exchange-legacy-1.jpg)</center>
+<center>(gallery: betfair-exchange-legacy-1.jpg)</center>
 
 ****
 

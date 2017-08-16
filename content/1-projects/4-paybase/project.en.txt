@@ -11,13 +11,13 @@ Text:
 
 My first challenge when I started at Paybase was a complete rebranding. This meant not only creating the company logo and visual language, but also their website (desktop & mobile), presentation deck templates, and other visual artifacts.
 
-(image: paybase-overview-0.png link: https://paybase.io/ text: www.paybase.io target:_blank)
+(image: paybase-website-overview-1.png link: https://paybase.io/ text: www.paybase.io target:_blank)
 
 ****
 
 (row…)
  **<center class="project-title">THE BUSINESS CHALLENGE</center>**
-Like any brand, a company brand needs to differentiate itself, resonate with customers, inspire employees and most importantly reflect the company's vision. Paybase had just decided to pivot its main product from a mobile app targeted at customers (Payfriendz) to a B2B payments platform solution targetted to companies that wanted to develop payments and marketplaces applications. This presented an interesting challenge, the product and brand no longer needed to appeal to the consumer but to tech companies and their developers. From this need the above depicted logo was born.
+Like any brand, a company brand needs to differentiate itself, resonate with customers, inspire employees and most importantly reflect the company's vision. Paybase had just decided to pivot its main product from a mobile app targeted at customers (Payfriendz) to a B2B payments platform solution targetted to companies that wanted to develop payments and marketplaces applications. This presented an interesting challenge, the product and brand no longer needed to appeal to the consumer but to tech companies and their developers.
 (...row)
 
 ****
@@ -57,8 +57,11 @@ In today's world, no website can go live without a mobile or responsive version.
 (...row)
 
 (gallery: paybase-responsive-website.png)
-
-(gallery: paybase-brandartifacts.png)
+<br />
+(row…)
+Here are some of the design artifacts created to support the brand. Logo variations, business cards, presentation decks, pens, stickers, mugs, and hoodies, were some of the pieces created.
+(...row)
+(gallery: paybase-brandartifacts.png )
 
 ----
 
@@ -66,4 +69,4 @@ Tags: User Interface,User Experience,Responsive
 
 ----
 
-Thumbimage: paybase-thumb-3.png
+Thumbimage: paybase-thumb-5.png
