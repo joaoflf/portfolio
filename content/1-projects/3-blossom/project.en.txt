@@ -1,0 +1,52 @@
+Title: Blossom
+
+----
+
+Text: 
+
+*April 2017* /  **Skills:** *User Interface, User Experience, Responsive, Product Design*
+
+<br />
+
+<span class="project-title">**OVERVIEW**</span>
+
+TBC! Working on it.
+
+(image: blossom-website-overview.png)
+
+****
+
+(row…)
+ **<center class="project-title">THE BUSINESS CHALLENGE</center>**
+TBC! Working on it.
+(...row)
+
+(image: blossom-app.png)
+****
+<br />
+(row…)
+ **<center class="project-title">THE WEBSITE</center>**
+TBC! Working on it.
+(...row)
+
+(gallery: blossom-website-hero.png)
+
+<br />
+(gallery: blossom-website-screens.png)
+
+<br />
+(gallery: blossom-website-cards.png)
+
+<br />
+(gallery: blossom-responsive-website.png)
+
+<br />
+(gallery: blossom-app-screens.png)
+
+----
+
+Tags: User Interface,User Experience,Responsive,Product Design
+
+----
+
+Thumbimage: blossom-thumb.png

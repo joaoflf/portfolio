@@ -69,4 +69,4 @@ Tags: User Interface,User Experience,Responsive
 
 ----
 
-Thumbimage: paybase-thumb-5.png
+Thumbimage: paybase-thumb-6.png
