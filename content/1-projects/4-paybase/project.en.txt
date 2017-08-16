@@ -11,7 +11,7 @@ Text:
 
 My first challenge when I started at Paybase was a complete rebranding. This meant not only creating the company logo and visual language, but also their website (desktop & mobile), presentation deck templates, and other visual artifacts.
 
-(image: paybase-website-overview-1.png link: https://paybase.io/ text: www.paybase.io target:_blank)
+(image: paybase-website-overview-1.png)
 
 ****
 
