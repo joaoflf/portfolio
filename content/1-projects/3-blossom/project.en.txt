@@ -4,13 +4,13 @@ Title: Blossom
 
 Text: 
 
-*April 2017* /  **Skills:** *User Interface, User Experience, Responsive, Product Design*
+*April 2017* /  **Skills:** *User Interface, User Experience, Responsive, Mobile Design, Product Design*
 
 <br />
 
 <span class="project-title">**OVERVIEW**</span>
 
-TBC! Working on it.
+The Blossom project was a lean experiment performed to gather user feedback and measure the demand and interest of consumers on a particular kind of banking app.
 
 (image: blossom-website-overview.png)
 
@@ -18,7 +18,7 @@ TBC! Working on it.
 
 (row…)
  **<center class="project-title">THE BUSINESS CHALLENGE</center>**
-TBC! Working on it.
+Whilst Paybase decided to pivot from a mobile app to a payment's solution SAAS,  there was an interest in trying one more approach on the mobile app market. The previous app, Payfriendz, did not have the expected success and traction, so this time the company opted a more lean approach. The new app concept was a virtual bank aimed at joint accounts, with the goal of helping couples managing their finances. Instead of diving directly into the development of this new idea, an experiment was created to measure its possible traction. 
 (...row)
 
 (image: blossom-app.png)
@@ -26,21 +26,33 @@ TBC! Working on it.
 <br />
 (row…)
  **<center class="project-title">THE WEBSITE</center>**
-TBC! Working on it.
+
+In order to get the necessary feedback from potential users, without the effort and cost of developing a fully functioning app, the company decided to create a smoke page. This smoke page would showcase the envisioned product with its features, and contain several CTAs where the visitor would input its email if he or she were to be interested. The placement of the CTAs on both the hero and the top left menu provided a clear path for sign ups.
+A complete set of UI designs had to be produced to showcase the various features. These designs included bank account information, an illustrated list of transactions, wish lists with a joint purchase decision system and more.
+
 (...row)
 
 (gallery: blossom-website-hero.png)
 
 <br />
 (gallery: blossom-website-screens.png)
-
 <br />
+(row…)
+One of the characteristics the company thought that would attract potential users was the ability to customise their cards. An interactive and visually appealing interface was designed to demonstrate this feature.
+(...row)
+
 (gallery: blossom-website-cards.png)
-
 <br />
+(row…)
+In order to target a wider audience, this smoke page was designed in a responsive way, with the use of a grid to streamline its implementation. Below are the various adaptations to a smaller viewport.
+(...row)
+
 (gallery: blossom-responsive-website.png)
-
 <br />
+(row…)
+And here are the several screens of the mobile app user interface.
+(...row)
+
 (gallery: blossom-app-screens.png)
 
 ----
