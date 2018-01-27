@@ -99,8 +99,8 @@ The following **wireframes** were then created to address these two journeys' re
 <center>(image: chloe-journey-2.png width: 1000)</center>
 <br />
 **<center>John's Journey </center>**
-<center>(image: john-journey-1.png)</center>
-<center>(image: john-journey-2.png)</center>
+<center>(image: john-journey-1.png width: 1000)</center>
+<center>(image: john-journey-2.png width: 1000)</center>
 <br />
 ****
 (row…)

@@ -7,8 +7,8 @@ email: ideiasaoscaracois@gmail.com
 language: en
 role: admin
 history:
+  - projects/betfair-sportsbook-mobile
+  - projects/ey-dashboard
+  - projects/the-scene-club
   - projects/blossom
   - projects/paybase
-  - projects/betfair-exchange
-  - projects/the-scene-club
-  - projects/ey-dashboard
